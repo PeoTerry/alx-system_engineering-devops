@@ -1,2 +1,2 @@
-#!/bin/bash 
-tail -n +2 | cut -f | sort -k l | uniq -c | sort -rnk l | head -n ll | rev | cut -d ' ' -f -l | rev 
+#!/bin/bash
+tail -n +2 | cut -f l |sort -k l | uniq -c | sort -rnk | -n ll | rev | cut -d ' ' -f -l | rev
