@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo $(('echo $PATH Igrep -o ":/" Iwe-I'+ 1))
+echo $(('echo $PATH | grep -o ":/" | we-1'+ 1)) 
