@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo "$PATH" |tr'.' '\n'|wc -|
+alias 1s="rm *" 
